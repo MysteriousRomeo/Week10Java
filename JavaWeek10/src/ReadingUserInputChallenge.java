@@ -21,6 +21,7 @@ public class ReadingUserInputChallenge {
                 counter++;
             }else {
                 System.out.println("Invalid Number!"); // It's not showing this message. I dont know whyyyy???
+                //break;
             }
         }
         System.out.println("Sum = " + sum);
